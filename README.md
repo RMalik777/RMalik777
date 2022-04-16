@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafli
 - 👀 I’m a student in BINUS University
-- 🌱 I’m currently learning C/CPP, HTML, CSS, Jacascript
+- 🌱 I’m currently learning C/CPP, HTML, CSS, Javascript
 - 📫 Rafli.Malik@gmail.com
 
 <!---
